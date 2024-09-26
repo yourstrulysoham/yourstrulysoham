@@ -7,17 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/sohampattanaya0" target="blank"><img src="https://img.shields.io/twitter/follow/sohampattanaya0?logo=twitter&style=for-the-badge" alt="sohampattanaya0" /></a> </p>
 
+- 🌱 I’m currently learning **Full stack applications with Cloud based database systems**
+
+- 💬 Ask me about **Java, Database Management**
+
+- 📫 How to reach me **mail.sohampattanayak@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/yourstrulysoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yourstrulysoham" height="30" width="40" /></a>
+<a href="https://dev.to/yourstrulysoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yourstrulysoham" height="30" width="40" /></a>
 <a href="https://twitter.com/sohampattanaya0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohampattanaya0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soham-pattanayak-a48483244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soham-pattanayak-a48483244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sohampattanayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sohampattanayak" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/xyzmefazecez9ald/?mibextid=qi2omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/xyzmefazecez9ald/?mibextid=qi2omg" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yourstrulysoham?igsh=nwfootb1ewxvag1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yourstrulysoham?igsh=nwfootb1ewxvag1n" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/debugstarr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/debugstarr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mail_sohampatta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mail_sohampatta1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/soham_pattanayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/soham_pattanayak/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soham-pattanayak-a48483244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-pattanayak-a48483244" height="30" width="40" /></a>
+<a href="https://kaggle.com/sohampattanayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sohampattanayak" height="30" width="40" /></a>
+<a href="https://fb.com/soham pattanayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soham pattanayak" height="30" width="40" /></a>
+<a href="https://instagram.com/yourstrulysoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourstrulysoham" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/debugstarr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="debugstarr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mail_sohampatta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mail_sohampatta1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/soham_pattanayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soham_pattanayak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
