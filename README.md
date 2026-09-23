@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Pattanayak</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer with SEO analysis Experienced from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourstrulysoham&label=Profile%20views&color=0e75b6&style=flat" alt="yourstrulysoham" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sohampattanaya0" target="blank"><img src="https://img.shields.io/twitter/follow/sohampattanaya0?logo=twitter&style=for-the-badge" alt="sohampattanaya0" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack applications with Cloud based database systems**
+- 🌱 I’m currently working on building  **Full stack web applications with scalable search reliable across different browsers**
 
-- 💬 Ask me about **Java, Database Management**
+- 💬 Ask me about **HTML, React, Tailwind CSS, NextJS, Java, Database Management, SEO Tools, Keyword Research, Google Search Engine Scalability**
 
 - 📫 How to reach me **mail.sohampattanayak@gmail.com**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/yourstrulysoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yourstrulysoham" height="30" width="40" /></a>
 <a href="https://twitter.com/sohampattanaya0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohampattanaya0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soham-pattanayak-a48483244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-pattanayak-a48483244" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yourstrulysoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-pattanayak-a48483244" height="30" width="40" /></a>
 <a href="https://kaggle.com/sohampattanayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sohampattanayak" height="30" width="40" /></a>
 <a href="https://fb.com/soham pattanayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soham pattanayak" height="30" width="40" /></a>
 <a href="https://instagram.com/yourstrulysoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourstrulysoham" height="30" width="40" /></a>
